@@ -20,7 +20,7 @@
 
 [![Ria's github stats](https://github-readme-stats.vercel.app/api?username=riasingh12&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/riasingh12) <br>
 
-![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=large&theme=calm&count_private=true) <br> <hr>
+![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=large&theme=calm&count_private=true) <br> <hr>
 
 
 ### - If you really wanna contact me, write me an email, it's pretty cool. But here are also some other ways to reach me if you dont want to write me an enigmatic letter.
