@@ -20,7 +20,7 @@ Hi! I am Ria, a clumsy idiot who's trying really hard.
 <tbody>
 
 <tr>
-<td align="center" width="20%" border="0">
+<td align="center" width="0%" border="0">
 <span><b><center>
   
 [![Ria's github stats](https://github-readme-stats.vercel.app/api?username=riasingh12&hide=issues&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/riasingh12)
