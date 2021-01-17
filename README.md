@@ -21,21 +21,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=compact&theme=vue-dark)](https://github.com/riasingh12) <br> <hr>
 
-
-### Here something for you tovibe with me 
-
-[<img src="https://open.spotify.com/playlist/6b1rJxwmezComUeB52oWcE?si=g5RXwIgtQmuGhF_JsKMOLw" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) <br> <hr>
-
 ### - If you really wanna contact me, write me an email, it's pretty cool. But there are also other options if you wanna miss your chance of being my enigmatic penpal.
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/discord.png"/>][discord]
+[<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][discord]
 
 [email]: https://riasingh.rs12@gmail.com
 [instagram]: https://www.instagram.com/bloody_pranksteen
 [discord]: https://discord.bio/p/ratakittydoggo
-
+[linkedin]: https://www.linkedin.com/in/ria-singh-241392197/
 
 
 
