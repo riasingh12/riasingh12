@@ -15,10 +15,22 @@ Hi! I am Ria, a clumsy idiot who's trying really hard.
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Driasingh12&longCache=true&theme=vue-dark)](https://github.com/riasingh12) <br> <hr>
 
-[![Ria's github stats](https://github-readme-stats.vercel.app/api?username=riasingh12&hide=issues&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/riasingh12) <br>
 
+<table>
+<tbody>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=compact&theme=vue-dark)](https://github.com/riasingh12) <br> <hr>
+<tr>
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+[![Ria's github stats](https://github-readme-stats.vercel.app/api?username=riasingh12&hide=issues&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/riasingh12)
+</td>
+
+<td align="center" width="20%">
+<span><b><center></center></b></span> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=compact&theme=vue-dark)](https://github.com/riasingh12)
+</td>
+</tr></tbody></table>
+<br><hr>
 
 ### - If you really wanna contact me, write me an email, it's pretty cool. But there are also other options if you wanna miss your chance of being my enigmatic penpal.
 
