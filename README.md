@@ -3,7 +3,7 @@
 <!--
 **riasingh12/riasingh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Hola niños internal screaming
+### Hola niños ^internal screaming^
 ### Hi! I am Ria, a bit of a clumsy idiot who's trying her hand at coding.
 
 ### -  Currently I'm procrastinating doing homework by working on an anxiety reducing smp, and some bots for fun.
