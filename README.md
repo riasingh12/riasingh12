@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <!--
 **riasingh12/riasingh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Hola niños ^internal screaming^
-### Hi! I am Ria, a bit of a clumsy idiot who's trying her hand at coding.
+# Hola niños ^internal screaming^
+### Hi! I am Ria, a clumsy idiot who's trying really hard.
 
 ### -  Currently I'm procrastinating doing homework by working on an anxiety reducing smp, and some bots for fun.
 ### -  Also learning about everything except what is taught in classroom.
