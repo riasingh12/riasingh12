@@ -22,12 +22,16 @@ Hi! I am Ria, a clumsy idiot who's trying really hard.
 <tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
+  
 [![Ria's github stats](https://github-readme-stats.vercel.app/api?username=riasingh12&hide=issues&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/riasingh12)
+
 </td>
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=compact&theme=vue-dark)](https://github.com/riasingh12)
+
 </td>
 </tr></tbody></table>
 <br><hr>
