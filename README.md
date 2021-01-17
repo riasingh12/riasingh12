@@ -3,7 +3,7 @@
 <!--
 **riasingh12/riasingh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Hola niños /<internal screaming />
+### Hola niños *internal screaming*
 ### Hi! I am Ria, a bit of a clumsy idiot who's trying her hand at coding.
 
 ### -  Currently I'm procrastinating doing homework by working on an anxiety reducing smp, and some bots for fun.
@@ -21,7 +21,7 @@
 [![Ria's github stats](https://github-readme-stats.vercel.app/api?username=riasingh12&hide=issues&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/riasingh12) <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=compact)(https://github.com/riasingh12/github-readme-stats) <br> <hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=compact)](https://github.com/riasingh12/github-readme-stats) <br> <hr>
 
 
 ### - If you really wanna contact me, write me an email, it's pretty cool. But there are also other options if you wanna miss your chance of being my enigmatic penpal.
