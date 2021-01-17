@@ -23,7 +23,7 @@ Hi! I am Ria, a clumsy idiot who's trying really hard.
 
 <br><hr>
 
-### - If you really wanna contact me, write me an email, it's pretty cool. But there are also other options if you wanna miss your chance of being my enigmatic penpal.
+If you really wanna contact me, I would prefer an email, it's very enigmatice and we can become penpals 🥺.
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
