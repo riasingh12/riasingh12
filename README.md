@@ -4,7 +4,7 @@
 # Hola niños 
 {internal screaming}
 
-Hi! I am Ria, a clumsy idiot who's trying really hard.
+Hi! I am Ria, a clumsy idiot who's trying/crying her best.
 - Currently I'm procrastinating doing homework by working on an anxiety reducing smp, and some bots for fun.
 -  Also learning about everything except what is taught in classroom.
 -  I’m looking for help with the sorcery of debugging.
