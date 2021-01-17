@@ -21,7 +21,7 @@
 [![Ria's github stats](https://github-readme-stats.vercel.app/api?username=riasingh12&hide=issues&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/riasingh12) <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=compact)](https://github.com/riasingh12) <br> <hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=compact&theme=vue-dark)](https://github.com/riasingh12) <br> <hr>
 
 
 ### - If you really wanna contact me, write me an email, it's pretty cool. But there are also other options if you wanna miss your chance of being my enigmatic penpal.
