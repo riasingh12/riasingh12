@@ -20,14 +20,18 @@
 
 [![Ria's github stats](https://github-readme-stats.vercel.app/api?username=riasingh12&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/riasingh12) <br>
 
-### - 📫 How to reach me: write me an email, it's pretty cool. But here are also some other ways to reach me if you dont want to write me an enigmatic letter.
+![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=large&theme=calm&count_private=true) <br> <hr>
+
+
+### - If you really wanna contact me, write me an email, it's pretty cool. But here are also some other ways to reach me if you dont want to write me an enigmatic letter.
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
+[<img align="left" src="https://img.icons8.com/fluent/48/000000/discord.png"/>][discord]
 
 [instagram]: https://www.instagram.com/bloody_pranksteen
 [email]: https://riasingh.rs12@gmail.com
-
+[discord]: https://discord.bio/p/ratakittydoggo
 
 
 
