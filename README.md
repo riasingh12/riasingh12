@@ -28,7 +28,7 @@ Hi! I am Ria, a clumsy idiot who's trying really hard.
 </center></b></span> 
 </td>
 
-<td align="center" width="20%" border="0">
+<td align="center" width="0%" border="0">
 <span><b><center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riasingh12&layout=compact&theme=vue-dark)](https://github.com/riasingh12)
