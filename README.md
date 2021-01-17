@@ -24,7 +24,7 @@
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
-[<img align="left" src="https://anilist.co/img/icons/android-chrome-512x512.png" size="10"/>]
+[<img align="left" src="https://anilist.co/img/icons/android-chrome-50x50.png" height="50" widht="50"/>]
 [anilist]
 
 [instagram]: https://www.instagram.com/bloody_pranksteen
