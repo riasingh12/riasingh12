@@ -2,7 +2,7 @@
 **riasingh12/riasingh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # Hola niños 
-{internal screaming}
+_{internal screaming}_
 
 Hi! I am Ria, a clumsy idiot who's trying/crying her best.
 - Currently I'm procrastinating doing homework by working on an anxiety reducing smp, and some bots for fun.
