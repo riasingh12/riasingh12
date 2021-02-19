@@ -30,7 +30,7 @@ If you really wanna contact me, I would prefer an email, it's very enigmatice an
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/discord.png"/>][discord]
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][discord]
+[<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 
 [email]: https://riasingh.rs12@gmail.com
 [instagram]: https://www.instagram.com/bloody_pranksteen
