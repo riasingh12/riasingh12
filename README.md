@@ -32,7 +32,7 @@ If you really wanna contact me, I would prefer an email, it's very enigmatice an
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/discord.png"/>][discord]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 
-[email]: https://riasingh.rs12@gmail.com
+[email]: mailto:riasingh.rs12@gmail.com
 [instagram]: https://www.instagram.com/bloody_pranksteen
 [discord]: https://discord.bio/p/ratakittydoggo
 [linkedin]: https://www.linkedin.com/in/ria-singh-241392197/
