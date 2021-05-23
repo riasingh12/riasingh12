@@ -25,16 +25,12 @@ Hi! I am Ria, a clumsy idiot who's trying/crying her best.
 
 <br><hr>
 
-If you really wanna contact me, I would prefer an email, it's very enigmatice and we can become penpals 🥺.
+If you really wanna contact me, I would prefer an email.
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/discord.png"/>][discord]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 
 [email]: mailto:riasingh.rs12@gmail.com
-[instagram]: https://www.instagram.com/bloody_pranksteen
-[discord]: https://discord.bio/p/ratakittydoggo
 [linkedin]: https://www.linkedin.com/in/ria-singh-241392197/
 
 
