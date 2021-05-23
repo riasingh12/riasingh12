@@ -25,7 +25,7 @@ Hi! I am Ria, a clumsy idiot who's trying/crying her best.
 
 <br><hr>
 
-If you really wanna contact me, I would prefer an email.
+If you really wanna contact me, I would prefer email.
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
