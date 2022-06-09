@@ -4,14 +4,7 @@
 # Hola niños 
 _{internal screaming}_
 
-Hi! I am Ria, a clumsy idiot who's trying/crying her best.
-- Currently I'm procrastinating doing homework by working on an anxiety reducing smp, and some bots for fun.
--  Also learning about everything except what is taught in classroom.
--  I’m looking for help with the sorcery of debugging.
--  Ask me about...nothing please, I have social anxiety. Sorry😔
--  Pronouns: she/her (but sometimes it/they because im dead inside)
--  absolutely-useless-but-i-have-no-other-personality-fun-fact: used to be a big geek, still am; only difference is I shifted from novels to animanga
-
+Hi! I am Ria
 
 <img src="https://komarev.com/ghpvc/?username=riasingh12&style=flat-square" alt="RiaSingh" /><br>
 
