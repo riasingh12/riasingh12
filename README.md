@@ -3,7 +3,8 @@
 
 Hi! I am Ria!
 
-To contact me, I would prefer email:
+
+Would love to get in touch, contact me via:
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
